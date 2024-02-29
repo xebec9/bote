@@ -34,4 +34,4 @@ async def update_status():
         await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name=f"Uptime: {formatted_uptime}"))
 
 
-bot.run("OTYwMTAyNjEzMzk3OTM0MTQw.GrB3Bc.IO4WpNQ87EDL_zo5ggAhoqs9bA_1bj75uUgYhc")
+bot.run("TOKEN")
